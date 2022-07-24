@@ -16,3 +16,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jatinsinghnp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![GitHub followers](https://img.shields.io/github/followers/jatinsinghnp?style=social)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsinghnp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
