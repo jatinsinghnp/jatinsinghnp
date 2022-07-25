@@ -1,4 +1,4 @@
-                                                              # Hi there i am jatin singh ! 👋 
+# <div align="center"> Hi there i am jatin singh ! 👋 </div>
 
 
 
@@ -7,12 +7,12 @@
 - 👯 I’m looking to collaborate on Github ..
 - 🤔 I’m looking for help with documentation
 - 💬 Ask me about python , Django , java scripts ect...
-
-
-
-videos](https://www.instagram.com/singh.jatin.794/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I spent most of my day by sleeping 
+
+
+## Connect with me:
+- 
 
 
 
