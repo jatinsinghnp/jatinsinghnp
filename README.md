@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [jatinsingh.com.np](jatinsingh.com.np)
 
-- 💬 Ask me about **React js , Python , js, java , Django ,php**
+- 💬 Ask me about **React js , Python , Golang  **
 
 - 📫 How to reach me **js8971105@gmail.com**
 
