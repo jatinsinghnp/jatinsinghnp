@@ -28,8 +28,8 @@
  <a href="https://twitter.com/@jatinsi55117764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jatinsi55117764" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatin-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-tomar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jatinsinghtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jatinsinghtomar" height="30" width="40" /></a>
-<a href="https://fb.com/singh.jatin.794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singh.jatin.794" height="30" width="40" /></a>
-<a href="https://instagram.com/singh.jatin.794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jatin.794" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ceh.jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singh.jatin.794" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ceh.jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jatin.794" height="30" width="40" /></a>
 </p> 
 
 ---
