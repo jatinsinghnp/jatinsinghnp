@@ -1,11 +1,15 @@
-[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761170roskcttn5kg2b65mfr8ayst5sptpg6bwus9lx9&ep=v1_gifs_search&rid=giphy.gif&ct=g)]()
+[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://jatinsingh.com.np)
 
 <h1 align="center">Hi 👋, I'm Jatin Singh Tomar</h1>
 <h3 align="center">Cybersecurity and Ethical Hacking Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsinghnp" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatinsinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsinghnp" />
+</p>
 
-![Matrix Effect](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVtYzYyZ2xyNnlpazY3dHJpcTJwZmF5ejVsbDFyeHZvOTJ1cGV3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnljRytcCaVau4g/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnljRytcCaVau4g/giphy.gif" alt="Matrix Effect" width="500"/>
+</p>
 
 ---
 
@@ -23,10 +27,8 @@
 
 ---
 
-
-
-<h3 align="left">Programming Languages & Tools:</h3>
-<p align="left">
+<h3 align="center">Programming Languages & Tools:</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
     <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -45,33 +47,39 @@
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
-
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
  <a href="https://twitter.com/@jatinsi55117764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jatinsi55117764" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jatin-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-tomar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jatinsinghtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jatinsinghtomar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ceh.jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singh.jatin.794" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ceh.jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jatin.794" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/jatin-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-tomar" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/jatinsinghtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jatinsinghtomar" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/ceh.jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singh.jatin.794" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/ceh.jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jatin.794" height="30" width="40" /></a>
 </p> 
 
 ---
 
-<h3 align="left">Support My Work:</h3>
-<p><a href="https://ko-fi.com/jatinsingh92068"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatin singh" /></a></p><br><br>
+<h3 align="center">Support My Work:</h3>
+<p align="center"><a href="https://ko-fi.com/jatinsingh92068"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatin singh" /></a></p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jatinsinghnp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatinsinghnp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsinghnp&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsinghnp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub followers](https://img.shields.io/github/followers/jatinsinghnp?style=social)
+<p align="center">
+    <img src="https://img.shields.io/github/followers/jatinsinghnp?style=social" alt="GitHub Followers"/>
+</p>
 
 ---
 
-![Snake animation](https://github.com/jatinsinghnp/jatinsinghnp/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+    <img src="https://github.com/jatinsinghnp/jatinsinghnp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
