@@ -1,12 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+[![MasterHead](https://media.giphy.com/media/l3vR0pl6U3sTC5zaE/giphy.gif)]()
 
 <h1 align="center">Hi 👋, I'm Jatin Singh Tomar</h1>
+<h3 align="center">Cybersecurity and Ethical Hacking Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsinghnp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinsinghnp" alt="jatinsinghnp" /></a> </p>
+![Matrix Effect](https://media.giphy.com/media/E1cnub1JLZf9m/giphy.gif)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
 - 🔭 I’m currently a **Cybersecurity and Ethical Hacking Student**
 
@@ -34,7 +35,7 @@
 ---
 
 <h3 align="left">Support My Work:</h3>
-<p><a href="https://ko-fi.com/jatinsingh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatin singh" /></a></p><br><br>
+<p><a href="https://ko-fi.com/jatinsingh92068"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatin singh" /></a></p><br><br>
 
 ---
 
