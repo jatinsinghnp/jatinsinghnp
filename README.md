@@ -1,11 +1,11 @@
-[![MasterHead](https://media.giphy.com/media/l3vR0pl6U3sTC5zaE/giphy.gif)]()
+[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761170roskcttn5kg2b65mfr8ayst5sptpg6bwus9lx9&ep=v1_gifs_search&rid=giphy.gif&ct=g)]()
 
 <h1 align="center">Hi 👋, I'm Jatin Singh Tomar</h1>
 <h3 align="center">Cybersecurity and Ethical Hacking Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsinghnp" /> </p>
 
-![Matrix Effect](https://media.giphy.com/media/E1cnub1JLZf9m/giphy.gif)
+![Matrix Effect](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761170roskcttn5kg2b65mfr8ayst5sptpg6bwus9lx9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
